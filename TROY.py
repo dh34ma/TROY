@@ -1,2 +1,2 @@
 import xoshnaw
-xoshnaw()
+TROY()
